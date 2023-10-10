@@ -1,0 +1,81 @@
+
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styles */
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+/* Personal info styles */
+.personal-info {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  margin: 5px 0;
+}
+
+/* Education styles */
+.education {
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #333;
+}
+
+h4 {
+  color: #777;
+}
+
+/* Work experience styles */
+.work-experience {
+  margin-bottom: 20px;
+}
+
+/* Skills styles */
+.skills {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  color: #333;
+}
+
+/* Links styles */
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
